@@ -18,8 +18,5 @@ This repository contains a short report, a slide deck, and a COMSOL model for th
 2. Inspect the electromagnetic waves / frequency domain and eigenfrequency studies.
 3. Run the numeric port TEM field analysis to extract \(Z_0\) and S-parameters.
 
-## Citation
-If you use this repository in academic work, consider citing it via the included `CITATION.cff`.
-
 ## Author
 Nikos Koutsopoulos (June 2025)
